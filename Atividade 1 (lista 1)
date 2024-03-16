@@ -1,0 +1,33 @@
+let soma01 = 5;
+let soma02 = 3;
+
+let sub01 = 10;
+let sub02 = 7;
+
+let div01 = 5;
+let div02 = 8;
+
+let mult01 = 5;
+let mult02 = 6;
+
+let resto01 = 8;
+let resto02 = 5;
+
+let exp01 = 2;
+let exp02 = 3;
+
+
+let soma = soma01 + soma02;
+let subtracao = sub01 - sub02;
+let multiplicacao = mult01 * mult02;
+let divisao = div01 / div02;
+let resto = resto01 % resto02;
+let exponencial = exp01 ** exp02;
+
+
+console.log(`Resultado da soma entre ${soma1} e ${soma2}: ${soma}`);
+console.log(`Resultado da subtração entre ${sub1} e ${sub2}: ${subtracao}`);
+console.log(`Resultado da multiplicação entre ${mult1} e ${mult2}: ${multiplicacao}`);
+console.log(`Resultado da divisão entre ${div1} e ${div2}: ${divisao}`);
+console.log(`Resultado do resto entre ${resto1} e ${resto2}: ${resto}`);
+console.log(`Resultado do exponencial entre ${exp1} e ${exp2}: ${exponencial}`);
