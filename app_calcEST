@@ -1,0 +1,12 @@
+app_calc/
+├── index.js
+└── src/
+    ├── views/
+    │   ├── index.html
+    │   ├── resultado.html
+    ├── routes/
+    │   └── calculadoraRoutes.js
+    ├── controller/
+    │   └── calculadoraController.js
+    └── calculadora/
+        └── calculadora.js
