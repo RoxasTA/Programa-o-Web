@@ -1,0 +1,6 @@
+mkdir -p app_calc/src/{views,routes,controller,calculadora}
+touch app_calc/index.js
+touch app_calc/src/views/{index.html,resultado.html}
+touch app_calc/src/routes/calculadoraRoutes.js
+touch app_calc/src/controller/calculadoraController.js
+touch app_calc/src/calculadora/calculadora.js
